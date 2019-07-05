@@ -3,7 +3,7 @@ package Learning;
 public class FindeNegativeNumber {
 
 	public static void main(String[] args) {
-		int number = 12;
+		int number = 13;
 
 		if (number > 0) {
 			System.out.println("given number is positiver number");
