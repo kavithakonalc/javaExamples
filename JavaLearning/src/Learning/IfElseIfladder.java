@@ -3,7 +3,7 @@ package Learning;
 public class IfElseIfladder {
 
 	public static void main(String[] args) {
-		int Actualmarks = 35;
+		int Actualmarks = 60;
 
 		if (Actualmarks == 35) {
 			System.out.println("Student is pass");
