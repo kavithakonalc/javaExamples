@@ -13,7 +13,7 @@ public class Basic {
 		System.out.println("this is the first program");
 		
 		Basic ob=new Basic();
-		System.out.println(ob.AccountInfo(8, 55));
+		System.out.println(ob.AccountInfo(9, 5));
 		
 		
 		
