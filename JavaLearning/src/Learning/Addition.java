@@ -15,10 +15,10 @@ public class Addition {
 	
 	public static void main(String[] args) {
 		Addition ob=new Addition();
-		Addition.b;
+		Addition.b=35;
 		
 		System.out.println(ob.a);
-		ob.a=20;
+		ob.a=25;
 		System.out.println(ob.a);
 		
 		
